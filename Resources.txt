@@ -1,0 +1,2 @@
+https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
+http://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics
